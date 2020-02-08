@@ -14,7 +14,7 @@ python3 setup.py install
 ```
 ## 📈 Usage
 ```python
-from hibp-api import *
+from hibp_api import *
 print(hibp.email("test@example.com"))
 ```
 ## 📚 Exemple
