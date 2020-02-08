@@ -7,6 +7,9 @@ Permet d'utiliser l'api de HIBP gratuitement
 ## 💡 Prérequis
    [Python 2/3](https://www.python.org/downloads/release/python-370/)
 ## 🛠️ Installation
+### Avec PyPI
+```pip3 install hibp-api```
+### Avec github
 ```bash
 git clone https://github.com/megadose/hibp-api.git
 cd hibp-api/
