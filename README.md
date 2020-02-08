@@ -21,7 +21,7 @@ print(hibp.email("test@example.com"))
 ```bash
 python3 HIBP_test.py -e test@example.com
 ```
-## Exemple de projet : [!]Maltego HIBP()
+## Exemple de projet : [Maltego HIBP](https://github.com/megadose/hibp-maltego)
 
 ## 📝 License
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.fr.html)
