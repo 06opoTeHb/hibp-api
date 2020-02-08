@@ -8,9 +8,9 @@ Permet d'utiliser l'api de HIBP gratuitement
    [Python 2/3](https://www.python.org/downloads/release/python-370/)
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/megadose/hibp-python.git
-cd toutatis/
-pip3 install -r requirements.txt
+git clone https://github.com/megadose/hibp-api.git
+cd hibp-api/
+python3 setup.py install
 ```
 ## 📈 Usage
 ```python
