@@ -1,6 +1,6 @@
 # Hibp python
 # Educational purposes only
-Permet d'utiliser l'api de HIBP gratuitement
+Permet d'utiliser l'api de HIBP
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
